@@ -30,14 +30,14 @@ Informações extras: Ao explorar a região, um estudo de 500 pontos será reali
 ## Uso  
 
 1. **Abra o Jupyter Notebook**
-2. **Navegue até o arquivo projeto:**_oilygiant.ipynb e abra-o.
+2. **Navegue até o arquivo:** projeto_oilygiant.ipynb e abra-o.
 3. **Execute as células sequencialmente para reproduzir a análise e a criação do modelo.**  
    
 ## Funcionalidades  
 
 ### Etapas Iniciais  
 
-* **Importação de Bibliotecas:** pandas, numpy, scikit-learn, matplotlib, seaborn e scipy.    
+* **Importação de Bibliotecas:** pandas, numpy, scikit-learn, matplotlib e seaborn.    
 * **Leitura dos Dados:** Carregamento dos arquivos geo_data_0.csv, geo_data_1.csv e geo_data_2.csv e visualização das primeiras linhas dos DataFrames.   
 * **Informações Gerais:** Impressão das informações gerais dos DataFrames para conferir tipos de dados e valores ausentes.  
 
